@@ -1,0 +1,1 @@
+commandline: -I/home/fanyang/anaconda3/envs/pc/lib/python3.6/site-packages/numpy/core/include -I/home/fanyang/anaconda3/envs/pc/include/python3.6m -c-std=c++11 -D_GLIBCXX_USE_CXX11_ABI=0-I/home/fanyang/anaconda3/envs/pc/lib/python3.6/site-packages/numpy/core/include -I/home/fanyang/anaconda3/envs/pc/include/python3.6m
